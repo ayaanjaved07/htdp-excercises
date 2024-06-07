@@ -4,4 +4,4 @@
 (define sunny #true)
 (define friday #false)
 
-(and sunny #false)
+(and sunny #true)
